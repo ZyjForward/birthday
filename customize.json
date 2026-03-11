@@ -1,0 +1,31 @@
+{
+  "greeting": "生日快乐！",
+  "name": "王睿涵",
+  "greetingText": "很高兴能在人生的某个阶段认识你这个好朋友",
+  "wishText": "愿新的一岁平安顺遂，万事皆有期待，所有努力都不被辜负。",
+  "imagePath": "img/wrh.jpg",
+  "text1": "今天是你的生日啊!!! :D",
+  "textInChatBox": "非常真诚地祝你生日快乐！希望这一年有很多很多开心的事情发生在你身上！",
+  "sendButtonLabel": "发送",
+  "text2": "所以我想给你准备一个小小的惊喜",
+  "text3": "其实我认真想了一会儿",
+  "text4": "觉得还是应该做一点",
+  "text4Adjective": "有纪念意义的小东西",
+  "text5Entry": "因为，",
+  "text5Content": "能成为朋友本身就是一件很幸运的事情",
+  "smiley": ":)",
+  "bigTextPart1": "祝",
+  "bigTextPart2": "你",
+  "wishHeading": "生日快乐！",
+  "outroText": "希望这个小小的页面能让你今天多一点开心～",
+  "outroText2": "XXX 非要说，世界上最最最美丽智慧优雅大方的王睿涵，生日快乐～",
+  "replayText": "如果你觉得有意思的话，可以再看一遍哦！",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
